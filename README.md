@@ -5,3 +5,7 @@ This is a projet built following the course [The Complete JavaScript Course 2022
 ### Disclaimer
 
 The Design, HTML and CSS are not mine but belong to Jonas Schmedtmann (https://codingheroes.io/). I also coded the JS following the videos of Jonas' course.
+
+### Live URL
+
+(https://calythoms.github.io/JS-Course-Project-Bankist-Website/)
